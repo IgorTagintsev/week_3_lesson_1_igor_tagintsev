@@ -7,6 +7,8 @@ if __name__ == "__main__":
     dir_path = "/home/igor/Git/week_3_lesson_1_igor_tagintsev/task1"
     dir_and_files(dir_path)
 
+#Result :  https://gist.github.com/IgorTagintsev/5c3f7ee09350a1c4a27df4192b6def9c
+    
 #Task_2
 if __name__ == "__main__":
     list_of_members = [['Alexandr', 'Klimach', '@klimach'],
