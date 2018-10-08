@@ -51,5 +51,5 @@ if __name__ == "__main__":
 url = "https://dummyimage.com/600x400/000/fff"
 response = requests.get(url)
 if response.status_code == 200:
-    with open("/home/igor/Git/SLandHTTP/image.png", 'wb') as f:
+    with open("/home/igor/Git/week_3_lesson_1_igor_tagintsev/image.png", 'wb') as f:
         f.write(response.content)
